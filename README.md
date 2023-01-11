@@ -8,12 +8,13 @@
 ## インストール方法
 
 ## 使用パッケージのインストール方法
-'''gem instal thor'''
-https://qiita.com/ongaeshi/items/96f2c57111b1162f80f1を参照しました。
+`gem instal thor`
+https://qiita.com/ongaeshi/items/96f2c57111b1162f80f1
+を参照しました。
 
 ## 使用方法
 インストールした先で
-'ruby lasthw.rb [course]'と入力してください。
-'[course]'の欄には'material'、'electrical'、'program'、'artificial'を入力すること。
+`ruby lasthw.rb [course]`と入力してください。
+`[course]`の欄には`material`、`electrical`、`program`、`artificial`を入力すること。
 それぞれ物質工学課程、電気電子工学課程、情報科学課程、知能・機械工学課程です。
-その後、'[English] [mathematics] [science]'の順に点数を半角で入力してください。
+その後、`[English] [mathematics] [science]`の順に点数を半角で入力してください。
