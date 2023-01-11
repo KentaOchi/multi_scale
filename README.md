@@ -5,14 +5,13 @@
 この合否判定は2022年度の関西学院大学入試の合格最低点をもとに作成しました。
 このプログラムはruby3.1.0をインストールしたubuntuで作成しました。
 
-##インストール方法
+## インストール方法
 
-
-##使用パッケージのインストール方法
+## 使用パッケージのインストール方法
 '''gem instal thor'''
 https://qiita.com/ongaeshi/items/96f2c57111b1162f80f1を参照しました。
 
-##使用方法
+## 使用方法
 インストールした先で
 'ruby lasthw.rb [course]'と入力してください。
 '[course]'の欄には'material'、'electrical'、'program'、'artificial'を入力すること。
