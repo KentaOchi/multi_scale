@@ -6,6 +6,7 @@
 このプログラムはruby3.1.0をインストールしたubuntuで作成しました。
 
 ## インストール方法
+`git@github.com:KentaOchi/multi_scale.git`
 
 ## 使用パッケージのインストール方法
 `gem instal thor`
