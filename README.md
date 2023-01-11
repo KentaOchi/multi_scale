@@ -9,7 +9,7 @@
 
 
 ##使用パッケージのインストール方法
-'gem instal thor'
+'''gem instal thor'''
 https://qiita.com/ongaeshi/items/96f2c57111b1162f80f1を参照しました。
 
 ##使用方法
